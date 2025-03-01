@@ -1,3 +1,3 @@
 #Chest X-Ray Classification
 ##Dataset
-[](https://www.kaggle.com/datasets/nih-chest-xrays/data)
+[Link to Kaggle Dataset](https://www.kaggle.com/datasets/nih-chest-xrays/data)
